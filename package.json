@@ -1,7 +1,7 @@
 {
   "name": "dummyjson",
   "version": "1.0.0",
-  "description": "dummy-json",
+  "description": "dummyjsonserver",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
